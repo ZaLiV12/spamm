@@ -32,7 +32,7 @@ client.on('message', message => {
 
 client.on('message', message => {
     if(message.content === prefix+'مبلغ'){
-        message.channel.send('#credits 443032538722861057 500')
+        message.channel.send('#credits')
     }
 });
 
@@ -47,7 +47,7 @@ if (message.content === prefix+'spam') {
       let count = 0;
       let ecount = 0;
       for(let x = 0; x < 90000; x++) {
-        message.channel.send(`**تم آلبعص من قبل عمكم ❄Տᗅℐᗅⅅ❄**`)
+        message.channel.send(`**LiuqA**`)
           .then(m => {
             count++;
           })
@@ -83,7 +83,7 @@ client2.on('message', message => {
 
 client2.on('message', message => {
     if(message.content === prefix+'مبلغ'){
-        message.channel.send('#credits 443032538722861057 500')
+        message.channel.send('#credits')
     }
 });
 
@@ -98,7 +98,7 @@ if (message.content === prefix+'spam') {
       let count = 0;
       let ecount = 0;
       for(let x = 0; x < 90000; x++) {
-        message.channel.send(`**تم آلبعصص يخوآت آلكحبةة , خضوععععع عمكم ❄Տᗅℐᗅⅅ❄`)
+        message.channel.send(`**LiuqA**`)
           .then(m => {
             count++;
           })
